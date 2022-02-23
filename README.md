@@ -9,7 +9,7 @@
 <br>
 🔥 Junior Web Developer and focus improving skills<br>
 💻 I’m currently learning Node.JS, React and React Native<br>
-💬 Ask me about JavaScript, HTML, CSS<br>
+💬 Ask me about JavaScript, HTML, CSS, PHP<br>
 ⚡ Passionate about technology and innovation
 <br>
 <br>
