@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-🔥 Junior Web Developer and focus improving skills<br>
+🔥  Web Developer and focus improving skills<br>
 💻 I’m currently learning ReactJS, Node.JS and TypeScrypt<br>
 💬 Ask me about JavaScript, HTML, CSS, PHP<br>
 ⚡ Passionate about technology and innovation
