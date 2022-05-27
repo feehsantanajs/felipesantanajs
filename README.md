@@ -8,8 +8,8 @@
 <br>
 <br>
 🔥  Web Developer and focus improving skills<br>
-💻 I’m currently learning ReactJS, Node.JS and TypeScrypt<br>
-💬 Ask me about JavaScript, HTML, CSS, PHP<br>
+💻  I’m currently learning ReactJS, Node.JS and TypeScrypt<br>
+💬  Ask me about JavaScript, React and Node.Js<br>
 ⚡ Passionate about technology and innovation
 <br>
 <br>
