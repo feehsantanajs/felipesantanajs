@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/felipesantanajs/felipesantanajs/master/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/feelipesantana/feelipesantana/master/banner.png" width="100%">
 <h1>Hi everyone, I'm Felipe Santana 👋 </h1>
 <a href="https://www.linkedin.com/in/feelipesantana/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-feelipesantana-05122A?style=flat&logo=linkedin" alt="linkedin"/>
